@@ -1,0 +1,40 @@
+.center-align {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+
+.container {
+  align-items: center;
+}
+
+.text {
+  color: black;
+  font-size: 15px;
+  text-align: center;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.textbox {
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+form.login {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.btn-submit {
+  color: white;
+  background-color: rgb(152, 67, 233);
+  width: 300px;
+  height: 30px;
+  border-color: rgb(152, 67, 233);
+}

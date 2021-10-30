@@ -1,0 +1,254 @@
+.center-align {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.text {
+  color: black;
+  font-size: 15px;
+  text-align: center;
+}
+
+form1.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.textbox {
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+form.login {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.btn-submit {
+  color: white;
+  background-color: rgb(152, 67, 233);
+  width: 300px;
+  height: 30px;
+  border-color: rgb(152, 67, 233);
+}
+
+.Register {
+  background: linear-gradient(
+    180deg,
+    rgba(65, 102, 233, 0.4) 0%,
+    rgba(197, 155, 185, 0.4) 100%
+  );
+  position: absolute;
+  width: 1500px;
+  height: 1400px;
+  left: 0px;
+  top: 0px;
+}
+
+.Name {
+  margin-left: 50px;
+  margin-top: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 45px;
+  color: #2f2f2f;
+}
+
+.managment {
+  position: absolute;
+  width: 174px;
+  height: 37px;
+  left: 82px;
+  top: 249px;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #2f2f2f;
+}
+
+.main1 {
+  position: absolute;
+  width: 118px;
+  height: 20px;
+  left: 82px;
+  top: 296px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #2f2f2f;
+}
+
+.main2 {
+  position: absolute;
+  width: 162px;
+  height: 26px;
+  left: 82px;
+  top: 524px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #2f2f2f;
+}
+
+.manu1 {
+  position: absolute;
+  width: 162px;
+  height: 26px;
+  left: 138px;
+  top: 370px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #2f2f2f;
+}
+
+.manu2 {
+  position: absolute;
+  width: 162px;
+  height: 26px;
+  left: 138px;
+  top: 447px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #2f2f2f;
+}
+
+.manu3 {
+  position: absolute;
+  width: 162px;
+  height: 26px;
+  left: 138px;
+  top: 601px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #2f2f2f;
+}
+
+.manu4 {
+  position: absolute;
+  width: 162px;
+  height: 26px;
+  left: 138px;
+  top: 678px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #2f2f2f;
+}
+
+.Register1 {
+  background: #ffffff;
+  color: black;
+  position: absolute;
+  width: 1181px;
+  height: 1300px;
+  left: 319px;
+  top: 108px;
+}
+
+.Registerp {
+  position: absolute;
+  width: 350px;
+  height: 52px;
+  left: 100px;
+  top: 100px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 54px;
+
+  color: #2f2f2f;
+}
+
+.sub {
+  position: absolute;
+  width: 1080px;
+  height: 238px;
+  left: 100px;
+  top: 160px;
+
+  background: #ece7ea;
+}
+
+.subject1 {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 25px;
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 45px;
+}
+
+.subject2 {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 25px;
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 85px;
+}
+
+.textbox2 {
+  margin-left: 110px;
+  position: absolute;
+  line-height: 20px;
+  top: 50px;
+}
+
+.chack {
+  flex-direction: row;
+  margin-left: 110px;
+  margin-top: 135px;
+}
+
+.status {
+  position: absolute;
+  width: 279px;
+  height: 107px;
+  left: calc(50% - 279px / 2 + 519.5px);
+  top: 1px;
+
+  background: rgba(255, 255, 255, 0.41);
+  border-radius: 15px;
+}
